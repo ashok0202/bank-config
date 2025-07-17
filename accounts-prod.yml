@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Bank accounts related prod  APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Ashok Gunji - Product Owner"
     email: "{cipher}2af734cabfbaf139b7a31bae7e9c41e21ed3c7a50aea20c46d1b6d7dcb6cc42a0dbd395b6dcc0151c120b3a7b330138b"
   onCallSupport:
     - (453) 392-4829
